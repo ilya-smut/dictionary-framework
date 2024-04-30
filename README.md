@@ -1,6 +1,6 @@
-# 📚 [Glossary.py](http://glossary.py/)
+# 📚 Glossary.py
 
-[Glossary.py](http://glossary.py/) is a Python module that interacts with an online dictionary API. It's designed to fetch and manage word descriptions, phonetics, and semantics in a structured way.
+Glossary.py is a Python module that interacts with an online dictionary API. It's designed to fetch and manage word descriptions, phonetics, and semantics in a structured way.
 
 ## 🧪 Key Features:
 
