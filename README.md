@@ -10,10 +10,15 @@ Glossary.py is a Python module that interacts with an online dictionary API. It'
 - Provides audio transcription and audio file link for the fetched word.
 - Allows to get all definitions or definitions based on a part of speech.
 
+## Installation
+```bash
+pip install python-glossary
+```
+
 ## How to Use:
 
 ```python
-from glossary import Glossary
+from python_glossary.glossary import Glossary
 
 # Create a rule object and set a limit for descriptions
 rules = Glossary.Rules()
