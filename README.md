@@ -1,8 +1,8 @@
-# 📚 Glossary.py
+# Glossary.py
 
 Glossary.py is a Python module that interacts with an online dictionary API. It's designed to fetch and manage word descriptions, phonetics, and semantics in a structured way.
 
-## 🧪 Key Features:
+## Key Features:
 
 - Fetches word descriptions, phonetics, and semantics from an online dictionary API.
 - Implements a class-based approach for managing fetched data.
@@ -10,7 +10,7 @@ Glossary.py is a Python module that interacts with an online dictionary API. It'
 - Provides audio transcription and audio file link for the fetched word.
 - Allows to get all definitions or definitions based on a part of speech.
 
-## 🚀 How to Use:
+## How to Use:
 
 ```python
 from glossary import Glossary
@@ -35,13 +35,9 @@ if word.exists():
 
 ```
 
-## 💻 Requirements:
+## Requirements:
 
 - Python 3.6+
 - requests library
 
 Please note, this module relies on the API at `https://api.dictionaryapi.dev/api/v2/entries/en/{input_word}` for fetching word data. Ensure you have a stable internet connection while using this module.
-
-## 📝 License:
-
-[MIT](https://choosealicense.com/licenses/mit/)
