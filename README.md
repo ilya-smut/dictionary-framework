@@ -37,7 +37,7 @@ if word.exists():
 
 ## Requirements:
 
-- Python 3.6+
-- requests library
+- Python 3.8+
+- requests 
 
 Please note, this module relies on the API at `https://api.dictionaryapi.dev/api/v2/entries/en/{input_word}` for fetching word data. Ensure you have a stable internet connection while using this module.
