@@ -22,7 +22,6 @@ setuptools.setup(
     author_email="ilya.smut.off.g@gmail.com",
     license="GPL-3.0 license",
     classifiers=[
-        "Development Status :: 1 - Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3.12",
     ],
